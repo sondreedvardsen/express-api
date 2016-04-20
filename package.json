@@ -13,8 +13,5 @@
     "express": "^4.13.4",
     "jsonwebtoken": "^5.7.0",
     "mysql": "^2.10.2",
-    "nodemon": "^1.9.1",
-    "swagger-tools": "^0.10.1",
-    "swagger-ui": "^2.1.4"
   }
 }
